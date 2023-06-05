@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - 📫 How to reach me: susiliyq@gmail.com
 -->
-
+<!-- NOT WORK
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Me By HTML5 Rocket</title>
+    <title>Me By HTML5 SL</title>
 
     <link rel="icon" href="https://html5rocket.github.io/assets/img/favicon.ico">
     <link rel="stylesheet" href="main.css">
@@ -58,3 +58,7 @@ Here are some ideas to get you started:
     </footer>
 </body>
 </html>
+-->
+<p>&#128187; Data Scientist </p>
+<p>&#128205; Toronto, Canada </p>
+<p>&#128231; susiliyq@gmail.com </p>
