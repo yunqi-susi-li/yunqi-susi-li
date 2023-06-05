@@ -30,14 +30,14 @@ Here are some ideas to get you started:
     <title>Me By HTML5 Rocket</title>
 
     <link rel="icon" href="https://html5rocket.github.io/assets/img/favicon.ico">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="main.css">
 
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" rel="stylesheet">
 </head>
 <body>
     <div class="main">
         <section class="photo">
-            <img src="assets/img/person.png" alt="Photo">
+            <img src="person.png" alt="Photo">
         </section>
         <section class="info">
             <h1 class="name">Susi Li</h1>
