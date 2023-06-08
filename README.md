@@ -1,4 +1,4 @@
-### Welcome to my Page 👋
+### This is Susi Li. Welcome to my Page 👋
 
 <!--
 **yunqi-susi-li/yunqi-susi-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
